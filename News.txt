@@ -1,6 +1,3 @@
-- Neue Stifte
-- Neuer Garten
 - Bug Fixes 
-- Neue Skybox 
-- Neuer Mond
-- Neue Bäume 
+- VIP Area
+- Spieler Tags
