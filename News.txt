@@ -1,5 +1,6 @@
-Kartoffelbeet wird NICHT mehr von hexed geleitet
+Hexed hat nichts mit der map zu tun
 Gruppen verfügen über die alleinige entscheidung
 Viele leute wurden von der map entbannt
-Wer sich wieder daneben verhält bleibt gebannt
+Wer sich daneben verhält wird wieder gebannt
 Wer bereits gebannt ist bleibt ebenfalls gebannt
+Anticheat bleibt weiterhin aktiv
