@@ -1,1 +1,1 @@
-This is just a small repo that automatically updates data for a VRChat world due to them having a very strong URL whitelist.
+This is just a small repo that automatically updates data for a VRChat world due to them having a very strong URL whitelist and github is one of the fully whitelisted ones.
